@@ -113,7 +113,7 @@ with mlflow.start_run(run_name="GridSearch_Parent_Run") as parent_run:
     
     # Set tags for better organization and filtering in MLflow UI
     mlflow.set_tags({
-        "author": "Ayush Das",
+        "author": "Vikash Das",
         "project": "Breast Cancer Classification",
         "model_type": "Random Forest",
         "task": "Binary Classification",

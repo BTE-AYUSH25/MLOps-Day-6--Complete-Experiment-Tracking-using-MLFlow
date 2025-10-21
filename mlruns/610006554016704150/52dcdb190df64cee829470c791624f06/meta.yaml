@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/610006554016704150/52dcdb190df64cee829470c791624f06/artifacts
+end_time: 1761057559200
+entry_point_name: ''
+experiment_id: '610006554016704150'
+lifecycle_stage: active
+run_id: 52dcdb190df64cee829470c791624f06
+run_name: HP_Combination_8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761057559094
+status: 3
+tags: []
+user_id: KAUSHAL
