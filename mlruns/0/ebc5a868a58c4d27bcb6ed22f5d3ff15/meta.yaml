@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ebc5a868a58c4d27bcb6ed22f5d3ff15/artifacts
+end_time: 1761054016331
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebc5a868a58c4d27bcb6ed22f5d3ff15
+run_name: RF_5_5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761054016134
+status: 3
+tags: []
+user_id: KAUSHAL

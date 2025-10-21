@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/489810063606913287/9ab8d520098a4f37828a6bc25aad930b/artifacts
+end_time: 1761054698617
+entry_point_name: ''
+experiment_id: '489810063606913287'
+lifecycle_stage: active
+run_id: 9ab8d520098a4f37828a6bc25aad930b
+run_name: rebellious-rat-151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761054683202
+status: 3
+tags: []
+user_id: KAUSHAL

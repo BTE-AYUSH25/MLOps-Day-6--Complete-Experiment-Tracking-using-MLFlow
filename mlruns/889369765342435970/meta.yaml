@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/889369765342435970
+creation_time: 1761056732999
+experiment_id: '889369765342435970'
+last_update_time: 1761056732999
+lifecycle_stage: active
+name: Exp-to-test-autolog

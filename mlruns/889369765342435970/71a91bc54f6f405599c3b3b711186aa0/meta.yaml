@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/889369765342435970/71a91bc54f6f405599c3b3b711186aa0/artifacts
+end_time: 1761056740940
+entry_point_name: ''
+experiment_id: '889369765342435970'
+lifecycle_stage: active
+run_id: 71a91bc54f6f405599c3b3b711186aa0
+run_name: traveling-grub-697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761056733225
+status: 3
+tags: []
+user_id: KAUSHAL

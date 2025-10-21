@@ -1,0 +1,8 @@
+digest: 9b22db7d
+name: dataset
+profile: '{"features_shape": [18, 13], "features_size": 234, "features_nbytes": 1872}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 13]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "KAUSHAL", "mlflow.source.name": "c:\\Users\\KAUSHAL\\Downloads\\MLOps-Day-6--Complete-Experiment-Tracking-using-MLFlow\\src\\autolog.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "15e62e285ac7b871f7445d0b8c6ca5d3b2e92c83"}}'
+source_type: code

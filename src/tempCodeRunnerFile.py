@@ -1,0 +1,1 @@
+mlflow.sklearn.log_model(rf, "Random-Forest-Model")

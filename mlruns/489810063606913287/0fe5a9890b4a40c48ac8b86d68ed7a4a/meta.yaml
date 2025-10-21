@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/489810063606913287/0fe5a9890b4a40c48ac8b86d68ed7a4a/artifacts
+deleted_time: 1761054552481
+end_time: 1761054521346
+entry_point_name: ''
+experiment_id: '489810063606913287'
+lifecycle_stage: deleted
+run_id: 0fe5a9890b4a40c48ac8b86d68ed7a4a
+run_name: bouncy-koi-901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761054508314
+status: 3
+tags: []
+user_id: KAUSHAL
